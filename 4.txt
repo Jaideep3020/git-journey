@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 mn m mn mn mwnsdcmnsms 
+44
+=======
+mn m mn mn mwnsdcmnsms 444
+>>>>>>> devolopment
 44
