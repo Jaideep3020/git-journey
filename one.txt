@@ -1,2 +1,4 @@
 hi 
 this is the journey to the git hub and i am exited to make this move 
+
+i am editing one.txt file now 
